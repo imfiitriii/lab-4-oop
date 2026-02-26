@@ -1,0 +1,14 @@
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\bin\Debug\net8.0\labweek5assignment.exe
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\bin\Debug\net8.0\labweek5assignment.deps.json
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\bin\Debug\net8.0\labweek5assignment.runtimeconfig.json
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\bin\Debug\net8.0\labweek5assignment.dll
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\bin\Debug\net8.0\labweek5assignment.pdb
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\labweek5assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\labweek5assignment.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\labweek5assignment.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\labweek5assignment.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\labweek5assignment.dll
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\refint\labweek5assignment.dll
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\labweek5assignment.pdb
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\labweek5assignment.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\labweek5assignment\labweek5assignment\obj\Debug\net8.0\ref\labweek5assignment.dll
