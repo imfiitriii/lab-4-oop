@@ -3,39 +3,39 @@ using System.Collections;
 
 class Library
 {
-    private string libraryName;
-    private List<Member> members = new List<Member>();
-    private List<Book> books = new List<Book>();
+    private string libraryName; //library name
+    private List<Member> members = new List<Member>();//list of members
+    private List<Book> books = new List<Book>();//list of books
 
-    public string LibraryName
+    public string LibraryName//property
     {
         get { return libraryName; }
         set { libraryName = value; }
     }
-    public Library(string name)
+    public Library(string name)//constructor
     {
         libraryName = name;
     }
 
-    public void addMembers(Member newMember)
+    public void addMembers(Member newMember)//method
     {
         members.Add(newMember);
         Console.WriteLine("Member added.");
     }
 
-    public void addBook(Book newBook)
+    public void addBook(Book newBook)//method
     {
         books.Add(newBook);
         Console.WriteLine("Book added.");
     }
 }
 
-class Book
+class Book//class
 {
-    private string bookTitle;
-    private int bookId;
+    private string bookTitle;//property
+    private int bookId;//property
 
-    public string BookTitle
+    public string BookTitle//property
     {
         get { return  bookTitle; }
         set { bookTitle = value; }
@@ -46,31 +46,31 @@ class Book
         set { bookId = value; }
     }
 
-    public Book(string title, int id)
+    public Book(string title, int id)//constructor
     {
         bookTitle = title;
         bookId = id;
     }
 }
 
-class Member
+class Member//class
 {
-    private string Name;
-    private int Id;
+    private string Name;//property
+    private int Id;//property
 
-    public string name
+    public string name//getter and setter
     {
         get { return Name; } 
         set { Name = value; } 
     }
 
-    public int id
+    public int id//getter and setter
     {
         get { return Id; }
         set { Id = value; }
     }
 
-    public Member(string name, int id)
+    public Member(string name, int id)//constructor
     {
         Name = name;
         Id = id;

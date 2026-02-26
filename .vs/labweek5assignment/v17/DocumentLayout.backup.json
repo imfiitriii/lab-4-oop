@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nitro\\source\\repos\\labweek5assignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48CFB5E1-F6DF-4281-BF43-44BB3819D366}|labweek5assignment\\labweek5assignment.csproj|c:\\users\\nitro\\source\\repos\\labweek5assignment\\labweek5assignment\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{48CFB5E1-F6DF-4281-BF43-44BB3819D366}|labweek5assignment\\labweek5assignment.csproj|solutionrelative:labweek5assignment\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48CFB5E1-F6DF-4281-BF43-44BB3819D366}|labweek5assignment\\labweek5assignment.csproj|c:\\users\\nitro\\source\\repos\\labweek5assignment\\labweek5assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48CFB5E1-F6DF-4281-BF43-44BB3819D366}|labweek5assignment\\labweek5assignment.csproj|solutionrelative:labweek5assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\labweek5assignment\\labweek5assignment\\.gitignore",
+              "RelativeDocumentMoniker": "labweek5assignment\\.gitignore",
+              "ToolTip": "C:\\Users\\Nitro\\source\\repos\\labweek5assignment\\labweek5assignment\\.gitignore*",
+              "RelativeToolTip": "labweek5assignment\\.gitignore*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-26T14:22:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nitro\\source\\repos\\labweek5assignment\\labweek5assignment\\Program.cs",
               "RelativeDocumentMoniker": "labweek5assignment\\Program.cs",
